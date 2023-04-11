@@ -1,0 +1,4 @@
+F:\Backup\Detective\x64\Release\Detective.vcxproj.AssemblyReference.cache
+F:\Backup\Detective\x64\Release\Detective.MyForm.resources
+F:\Backup\Detective\x64\Release\Detective.vcxproj.GenerateResource.cache
+F:\Backup\Detective\x64\Release\Detective.exe
